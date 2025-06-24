@@ -6,6 +6,7 @@ import ContentLayout from './ContentLayout.vue';
 <template>
     <!-- 상단 레이아웃 -->
     <TopLayout />
+
     <!-- 콘텐츠 레이아웃 -->
     <ContentLayout />
 </template>

@@ -21,6 +21,11 @@ const topMenu = ref<TopMenu[]>([
         url: '/bus-arrival',
         isActive: page.url === '/bus-arrival',
     },
+    {
+        title: '날씨',
+        url: '/weather',
+        isActive: page.url === '/weather',
+    },
 ]);
 </script>
 
